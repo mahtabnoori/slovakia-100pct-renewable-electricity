@@ -4,7 +4,7 @@
 
 A small static page to showcase my project results/screenshots.
 
-**Live demo:** https://mahtabnoori.github.io/<repo-name>/  
+**Live demo:** https://mahtabnoori.github.io/slovakia-100pct-renewable-electricity/
 *(Enable GitHub Pages: Settings → Pages → “Deploy from branch” → `main` + root.)*
 
 ---
@@ -56,7 +56,7 @@ GitHub: https://github.com/mahtabnoori
 
 Kleine statische Seite zur Darstellung meiner Projektergebnisse/Screenshots.
 
-**Live-Demo:** https://mahtabnoori.github.io/<repo-name>/  
+**Live-Demo:** https://mahtabnoori.github.io/slovakia-100pct-renewable-electricity/
 *(GitHub Pages aktivieren: Settings → Pages → “Deploy from branch” → `main` + root.)*
 
 ### Übersicht
